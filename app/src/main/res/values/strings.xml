@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sharp_salon</string>
+    <string name="sharp_salon">SHARP SALON</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="search_service">search service</string>
+    <string name="salon">salon</string>
+    <string name="hello">hello</string>
+    <string name="kunal">Kunal</string>
+    <string name="salon2">salon2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu">menu</string>
+    <string name="hello_kunal">Hello kunal</string>
+    <string name="profile">Profile</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="sharp_salon_academy"><![CDATA[Sharp salon & academy]]></string>
+
+</resources>

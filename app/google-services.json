@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760160106456",
+    "project_id": "sharp-salon-fb7b0",
+    "storage_bucket": "sharp-salon-fb7b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760160106456:android:f9880eb3e0c05c142aa4ad",
+        "android_client_info": {
+          "package_name": "com.example.sharp_salon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760160106456-258k3koc90nh948noq78iena4f8hidl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsiievZ-rIePjE9XsVKIJw4nk7uXkaxRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760160106456-258k3koc90nh948noq78iena4f8hidl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
